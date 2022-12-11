@@ -1,0 +1,36 @@
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.exe.config
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.exe
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.pdb
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.AssemblyReference.cache
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.Login.resources
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.Properties.Resources.resources
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.GenerateResource.cache
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.CoreCompileInputs.cache
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.exe
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.pdb
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.dll
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.xml
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.FrmBienvendio.resources
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.CopyComplete
+C:\Users\RawingLP\Desktop\Tareas SEPT-DIC\DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.FrmMain.resources
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.exe.config
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.exe
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\Proyecto Final DCU 2.pdb
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.dll
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.xml
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.FrmBienvendio.resources
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.FrmMain.resources
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.Login.resources
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto_Final_DCU_2.Properties.Resources.resources
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.csproj.CopyComplete
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.exe
+C:\Users\crist\Desktop\Mi noveno cuatrimestre\Diseño Centrado en el Usuario\FINAL DCU\Proyecto Final DCU 2\Proyecto Final DCU 2\obj\Debug\Proyecto Final DCU 2.pdb
